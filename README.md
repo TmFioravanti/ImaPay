@@ -10,7 +10,16 @@ O projeto teve como objetivo aplicar e desenvolver o conteúdo estudado durante 
 
 ## 👨‍💻 Minha contribuição
 
-Atuei no desenvolvimento backend e na integração com banco de dados, além da organização das funcionalidades da aplicação.
+**Backend (C# / ASP.NET Core)**
+
+* Autenticação com **JWT** e controle de expiração dos tokens
+* Validação do usuário no login
+* Autorização de acesso às rotas protegidas da API
+
+**Frontend (React)**
+
+* Criação das rotas da aplicação
+* Apoio na construção de componentes de interface (botões) e do layout
 
 ## Tecnologias utilizadas
 
